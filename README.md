@@ -32,56 +32,6 @@
       <button type="submit">Search Buses</button>
     </form>
   </section>
-  body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  line-height: 1.6;
-  background-color: #f4f4f4;
-}
-
-header {
-  background: #007bff;
-  color: white;
-  padding: 1rem;
-  text-align: center;
-}
-
-nav a {
-  color: white;
-  margin: 0 10px;
-  text-decoration: none;
-  font-weight: bold;
-}
-
-section {
-  padding: 20px;
-  background: white;
-  margin: 10px;
-  border-radius: 8px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-}
-
-form input, form button {
-  margin: 5px 0;
-  padding: 8px;
-  width: 200px;
-}
-
-button {
-  background: #007bff;
-  color: white;
-  border: none;
-  cursor: pointer;
-}
-
-footer {
-  text-align: center;
-  background: #333;
-  color: white;
-  padding: 10px;
-}
-
   <section id="about">
     <h2>About Us</h2>
     <p>SwiftRide offers safe, punctual and affordable travel options with a fleet of over 200 buses.</p>
