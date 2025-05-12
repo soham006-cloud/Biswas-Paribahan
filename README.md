@@ -4,12 +4,12 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>SwiftRide Bus Services</title>
+  <title>BiswasParibahan Bus Services</title>
   <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
   <header>
-    <h1>SwiftRide</h1>
+    <h1>BiswasParibahan</h1>
     <nav>
       <a href="#home">Home</a>
       <a href="#search">Book Tickets</a>
@@ -19,7 +19,7 @@
   </header>
 
   <section id="home">
-    <h2>Welcome to SwiftRide</h2>
+    <h2>Welcome to BiswasParibahan</h2>
     <p>Your trusted travel partner across India.</p>
   </section>
 
@@ -34,17 +34,17 @@
   </section>
   <section id="about">
     <h2>About Us</h2>
-    <p>SwiftRide offers safe, punctual and affordable travel options with a fleet of over 200 buses.</p>
+    <p>BiswasPariabahan offers safe, punctual and affordable travel options with a fleet of over 200 buses.</p>
   </section>
 
   <section id="contact">
     <h2>Contact Us</h2>
-    <p>Email: support@swiftride.com</p>
-    <p>Phone: +91-9876543210</p>
+    <p>Email: support@BiswasParibahan.com</p>
+    <p>Phone: +91-8697701999</p>
   </section>
 
   <footer>
-    <p>© 2025 SwiftRide. All rights reserved.</p>
+    <p>© 2025 BiswasParibahan. All rights reserved.</p>
   </footer>
 </body>
 </html>
