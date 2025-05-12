@@ -45,7 +45,7 @@
   </section>
 
   <footer>
-    <p>© 2025 SwiftRide. All rights reserved.</p>
+    <p>© 2025 BiswasParibahan. All rights reserved.</p>
   </footer>
 </body>
 </html>
